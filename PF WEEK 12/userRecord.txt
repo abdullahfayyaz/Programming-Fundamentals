@@ -1,0 +1,13 @@
+abd
+123
+manager
+
+bilal
+12
+customer
+ali
+1
+customer
+ahmad
+21
+customer
