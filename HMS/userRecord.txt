@@ -1,7 +1,0 @@
-abdullah,12345678,manager
-ali,11223344,customer
-maryam,22,customer
-danish,123,customer
-talha,34,customer
-46456546,dasd,customer
-ahmad,ahmad123,customer
